@@ -1,6 +1,7 @@
 #ifndef LINE_H
 #define LINE_H
 #include <Arduino.h>
+#include "driver.h"
 
 class LineFollower
 {
