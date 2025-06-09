@@ -1,0 +1,26 @@
+{
+    "name": "linefollower",
+    "version": "1.0.0",
+    "description": "A library for controlling line follower robots.",
+    "keywords": [
+        "robotics",
+        "line follower",
+        "sensor"
+    ],
+    "authors": [
+        {
+            "name": "HARIKESH O P",
+            "email": "23b472@gcek.ac.in"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "harikeshop/Motor Driver Library": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HarikeshopGCEK/linefollower"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
