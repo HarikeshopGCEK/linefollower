@@ -1,6 +1,6 @@
 {
   "name": "linefollower",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library for controlling line follower robots.",
   "keywords": ["robotics", "line follower", "sensor"],
   "authors": [
